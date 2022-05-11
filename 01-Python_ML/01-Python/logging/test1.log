@@ -1,0 +1,28 @@
+2021-12-22 11:45:09,823 First number is  = 12
+2021-12-22 11:45:09,823 Second Number is =36
+2021-12-22 11:46:06,073 First number is  = 12
+2021-12-22 11:46:06,074 Second Number is =36
+2021-12-22 11:46:06,074 Addition is = 48
+2021-12-22 11:48:30,805 First number is  = 48
+2021-12-22 11:48:30,806 Second Number is =24
+2021-12-22 11:48:30,806 Addition is = 72
+2021-12-22 11:55:37,565 This is info log
+2021-12-22 11:55:37,567 This is my warning log
+2021-12-22 11:55:37,567 This is my error log
+2021-12-22 11:55:37,568 This is my critical log
+2021-12-22 11:55:37,568 This is exection of log
+NoneType: None
+2021-12-22 11:55:55,785 This is info log
+2021-12-22 11:55:55,785 This is my warning log
+2021-12-22 11:55:55,877 This is my error log
+2021-12-22 11:55:55,878 This is my critical log
+2021-12-22 11:55:55,878 This is exception of log
+NoneType: None
+2021-12-22 11:57:05,639 First number is  = 48
+2021-12-22 11:57:05,640 Second Number is = 123
+2021-12-22 11:57:05,641 Addition is = 171
+2021-12-22 12:19:00,107 User provided input argumets are = (5, 6, 67, 9, 12, 'sachin')
+2021-12-22 12:19:00,108 Provide only integer as input parameter
+2021-12-22 12:19:00,108 Execution stopped
+2021-12-22 12:19:00,108 Execution has completed successfully, please find sum of user input parameter
+2021-12-22 12:19:00,109 Total sum of user input = 99

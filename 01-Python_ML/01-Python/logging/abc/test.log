@@ -1,0 +1,82 @@
+INFO:root:I am going to start my first program
+WARNING:root:This is warning of my program to modify it
+ERROR:root:This is message for error
+INFO:root:I am going to start my first program
+WARNING:root:This is warning of my program to modify it
+ERROR:root:This is message for error
+INFO:root:I am going to start my first program
+WARNING:root:This is warning of my program to modify it
+ERROR:root:This is message for error
+INFO:root:I am going to start my first program
+INFO:root:I am going to start my first program
+INFO:root:I am going to start my first program
+2021-12-22 11:17:04,144 I am going to start my first program
+2021-12-22 11:17:19,557 This is warning of my program to modify it
+2021-12-22 11:17:20,097 This is message for error
+2021-12-22 11:17:56,530 I am going to start my first program
+2021-12-22 11:17:57,563 This is warning of my program to modify it
+2021-12-22 11:17:59,850 This is message for error
+2021-12-22 11:28:30,316 Error has occured
+2021-12-22 11:28:30,317 division by zero
+Traceback (most recent call last):
+  File "C:\Users\Delll\AppData\Local\Temp/ipykernel_8656/131783650.py", line 3, in division
+    div = a/b
+ZeroDivisionError: division by zero
+2021-12-22 11:30:57,890 Error has occured
+2021-12-22 11:30:57,890 division by zero
+Traceback (most recent call last):
+  File "C:\Users\Delll\AppData\Local\Temp/ipykernel_8656/1732435212.py", line 4, in division
+    div = a/b
+ZeroDivisionError: division by zero
+2021-12-22 11:31:16,356 40
+2021-12-22 11:31:16,357 Error has occured
+2021-12-22 11:31:16,358 division by zero
+Traceback (most recent call last):
+  File "C:\Users\Delll\AppData\Local\Temp/ipykernel_8656/3288372195.py", line 4, in division
+    div = a/b
+ZeroDivisionError: division by zero
+2021-12-22 11:31:52,214 4
+2021-12-22 11:31:52,215 0
+2021-12-22 11:31:52,216 Error has occured
+2021-12-22 11:31:52,216 division by zero
+Traceback (most recent call last):
+  File "C:\Users\Delll\AppData\Local\Temp/ipykernel_8656/3172886605.py", line 5, in division
+    div = a/b
+ZeroDivisionError: division by zero
+2021-12-22 11:32:29,918 0
+2021-12-22 11:32:29,918 Error has occured
+2021-12-22 11:32:29,919 division by zero
+Traceback (most recent call last):
+  File "C:\Users\Delll\AppData\Local\Temp/ipykernel_8656/1486506898.py", line 5, in division
+    div = a/b
+ZeroDivisionError: division by zero
+2021-12-22 11:32:40,312 Error has occured
+2021-12-22 11:32:40,312 bad operand type for unary +: 'str'
+Traceback (most recent call last):
+  File "C:\Users\Delll\AppData\Local\Temp/ipykernel_8656/3526491070.py", line 3, in division
+    lg.info("First input", +str(a))
+TypeError: bad operand type for unary +: 'str'
+2021-12-22 11:33:12,758 First input4
+2021-12-22 11:33:12,758 0
+2021-12-22 11:33:12,759 Error has occured
+2021-12-22 11:33:12,760 division by zero
+Traceback (most recent call last):
+  File "C:\Users\Delll\AppData\Local\Temp/ipykernel_8656/1719771481.py", line 5, in division
+    div = a/b
+ZeroDivisionError: division by zero
+2021-12-22 11:33:43,669 First input=  4
+2021-12-22 11:33:43,670 0
+2021-12-22 11:33:43,671 Error has occured
+2021-12-22 11:33:43,672 division by zero
+Traceback (most recent call last):
+  File "C:\Users\Delll\AppData\Local\Temp/ipykernel_8656/1297321831.py", line 5, in division
+    div = a/b
+ZeroDivisionError: division by zero
+2021-12-22 11:34:19,204 First input =  4
+2021-12-22 11:34:19,204 second input =  0
+2021-12-22 11:34:19,205 Error has occured
+2021-12-22 11:34:19,205 division by zero
+Traceback (most recent call last):
+  File "C:\Users\Delll\AppData\Local\Temp/ipykernel_8656/215930543.py", line 5, in division
+    div = a/b
+ZeroDivisionError: division by zero

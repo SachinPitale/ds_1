@@ -1,0 +1,8 @@
+from django.shortcuts import render
+from django.http import HttpResponse
+
+# Create your views here.
+
+def index(request):
+    text = """<h1> My name is sachin, Learning python for ml dl cv and nlp. I am enjoying the larning </h1>"""
+    return HttpResponse(text)

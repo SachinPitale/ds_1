@@ -1,0 +1,135 @@
+2021-12-23 10:54:35,791 DEBUG diff parser start
+2021-12-23 10:54:35,792 DEBUG line_lengths old: 1; new: 1
+2021-12-23 10:54:35,793 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-12-23 10:54:35,794 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-12-23 10:54:35,795 DEBUG diff parser end
+2021-12-23 10:54:36,805 DEBUG pickle loaded: C:\Users\Delll\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2021-12-23 10:54:36,990 DEBUG pickle loaded: C:\Users\Delll\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2021-12-23 10:54:45,977 DEBUG diff parser start
+2021-12-23 10:54:45,978 DEBUG line_lengths old: 1; new: 1
+2021-12-23 10:54:45,979 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-12-23 10:54:45,982 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-12-23 10:54:45,983 DEBUG diff parser end
+2021-12-23 10:54:46,809 DEBUG diff parser start
+2021-12-23 10:54:46,810 DEBUG line_lengths old: 1; new: 1
+2021-12-23 10:54:46,812 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-12-23 10:54:46,815 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-12-23 10:54:46,816 DEBUG diff parser end
+2021-12-23 10:54:53,349 DEBUG diff parser start
+2021-12-23 10:54:53,350 DEBUG line_lengths old: 1; new: 1
+2021-12-23 10:54:53,351 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-12-23 10:54:53,353 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-12-23 10:54:53,354 DEBUG diff parser end
+2021-12-23 10:55:28,361 DEBUG diff parser start
+2021-12-23 10:55:28,361 DEBUG line_lengths old: 1; new: 2
+2021-12-23 10:55:28,361 DEBUG -> code[replace] old[1:1] new[1:2]
+2021-12-23 10:55:28,361 DEBUG parse_part from 1 to 2 (to 1 in part parser)
+2021-12-23 10:55:28,361 DEBUG diff parser end
+2021-12-23 10:55:32,608 DEBUG diff parser start
+2021-12-23 10:55:32,608 DEBUG line_lengths old: 2; new: 2
+2021-12-23 10:55:32,608 DEBUG -> code[equal] old[1:1] new[1:1]
+2021-12-23 10:55:32,616 DEBUG copy old[1:1] new[1:1]
+2021-12-23 10:55:32,616 DEBUG -> code[replace] old[2:2] new[2:2]
+2021-12-23 10:55:32,616 DEBUG parse_part from 2 to 2 (to 1 in part parser)
+2021-12-23 10:55:32,616 DEBUG diff parser end
+2021-12-23 10:55:32,790 DEBUG pickle loaded: C:\Users\Delll\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\logging\__init__.pyi
+2021-12-23 10:55:34,733 DEBUG diff parser start
+2021-12-23 10:55:34,733 DEBUG line_lengths old: 2; new: 2
+2021-12-23 10:55:34,733 DEBUG -> code[equal] old[1:1] new[1:1]
+2021-12-23 10:55:34,733 DEBUG copy old[1:1] new[1:1]
+2021-12-23 10:55:34,733 DEBUG -> code[replace] old[2:2] new[2:2]
+2021-12-23 10:55:34,733 DEBUG parse_part from 2 to 2 (to 1 in part parser)
+2021-12-23 10:55:34,741 DEBUG diff parser end
+2021-12-23 10:55:35,668 DEBUG diff parser start
+2021-12-23 10:55:35,668 DEBUG line_lengths old: 2; new: 2
+2021-12-23 10:55:35,668 DEBUG -> code[equal] old[1:1] new[1:1]
+2021-12-23 10:55:35,676 DEBUG copy old[1:1] new[1:1]
+2021-12-23 10:55:35,676 DEBUG -> code[replace] old[2:2] new[2:2]
+2021-12-23 10:55:35,676 DEBUG parse_part from 2 to 2 (to 1 in part parser)
+2021-12-23 10:55:35,676 DEBUG diff parser end
+2021-12-23 10:55:49,656 DEBUG diff parser start
+2021-12-23 10:55:49,657 DEBUG line_lengths old: 2; new: 2
+2021-12-23 10:55:49,658 DEBUG -> code[equal] old[1:1] new[1:1]
+2021-12-23 10:55:49,660 DEBUG copy old[1:1] new[1:1]
+2021-12-23 10:55:49,660 DEBUG -> code[replace] old[2:2] new[2:2]
+2021-12-23 10:55:49,662 DEBUG parse_part from 2 to 2 (to 1 in part parser)
+2021-12-23 10:55:49,662 DEBUG diff parser end
+2021-12-23 10:55:50,799 DEBUG diff parser start
+2021-12-23 10:55:50,800 DEBUG line_lengths old: 2; new: 2
+2021-12-23 10:55:50,801 DEBUG -> code[equal] old[1:1] new[1:1]
+2021-12-23 10:55:50,802 DEBUG copy old[1:1] new[1:1]
+2021-12-23 10:55:50,802 DEBUG -> code[replace] old[2:2] new[2:2]
+2021-12-23 10:55:50,803 DEBUG parse_part from 2 to 2 (to 1 in part parser)
+2021-12-23 10:55:50,803 DEBUG diff parser end
+2021-12-23 10:55:55,825 DEBUG diff parser start
+2021-12-23 10:55:55,827 DEBUG line_lengths old: 2; new: 2
+2021-12-23 10:55:55,828 DEBUG -> code[equal] old[1:1] new[1:1]
+2021-12-23 10:55:55,830 DEBUG copy old[1:1] new[1:1]
+2021-12-23 10:55:55,831 DEBUG -> code[replace] old[2:2] new[2:2]
+2021-12-23 10:55:55,832 DEBUG parse_part from 2 to 2 (to 1 in part parser)
+2021-12-23 10:55:55,833 DEBUG diff parser end
+2021-12-23 10:56:21,762 DEBUG diff parser start
+2021-12-23 10:56:21,763 DEBUG line_lengths old: 2; new: 1
+2021-12-23 10:56:21,764 DEBUG -> code[replace] old[1:2] new[1:1]
+2021-12-23 10:56:21,767 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-12-23 10:56:21,768 DEBUG diff parser end
+2021-12-23 10:56:47,434 DEBUG diff parser start
+2021-12-23 10:56:47,435 DEBUG line_lengths old: 1; new: 1
+2021-12-23 10:56:47,437 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-12-23 10:56:47,439 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-12-23 10:56:47,439 DEBUG diff parser end
+2021-12-23 10:56:48,532 DEBUG diff parser start
+2021-12-23 10:56:48,534 DEBUG line_lengths old: 1; new: 1
+2021-12-23 10:56:48,535 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-12-23 10:56:48,537 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-12-23 10:56:48,537 DEBUG diff parser end
+2021-12-23 10:57:06,482 DEBUG diff parser start
+2021-12-23 10:57:06,484 DEBUG line_lengths old: 1; new: 1
+2021-12-23 10:57:06,485 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-12-23 10:57:06,489 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-12-23 10:57:06,489 DEBUG diff parser end
+2021-12-23 10:57:47,204 INFO this is my first test code for log
+2021-12-23 10:58:05,295 DEBUG diff parser start
+2021-12-23 10:58:05,295 DEBUG line_lengths old: 1; new: 1
+2021-12-23 10:58:05,296 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-12-23 10:58:05,297 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-12-23 10:58:05,298 DEBUG diff parser end
+2021-12-23 10:58:06,723 DEBUG diff parser start
+2021-12-23 10:58:06,724 DEBUG line_lengths old: 1; new: 1
+2021-12-23 10:58:06,726 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-12-23 10:58:06,729 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-12-23 10:58:06,730 DEBUG diff parser end
+2021-12-23 10:58:08,087 DEBUG diff parser start
+2021-12-23 10:58:08,088 DEBUG line_lengths old: 1; new: 1
+2021-12-23 10:58:08,090 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-12-23 10:58:08,092 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-12-23 10:58:08,092 DEBUG diff parser end
+2021-12-23 10:58:09,797 DEBUG diff parser start
+2021-12-23 10:58:09,798 DEBUG line_lengths old: 1; new: 1
+2021-12-23 10:58:09,799 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-12-23 10:58:09,803 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-12-23 10:58:09,804 DEBUG diff parser end
+2021-12-23 10:58:46,029 DEBUG diff parser start
+2021-12-23 10:58:46,030 DEBUG line_lengths old: 1; new: 1
+2021-12-23 10:58:46,031 DEBUG -> code[replace] old[1:1] new[1:1]
+2021-12-23 10:58:46,033 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-12-23 10:58:46,033 DEBUG diff parser end
+2021-12-23 10:59:04,175 INFO this is info for logger 1
+2021-12-23 10:59:15,692 DEBUG diff parser start
+2021-12-23 10:59:15,693 DEBUG line_lengths old: 1; new: 2
+2021-12-23 10:59:15,694 DEBUG -> code[replace] old[1:1] new[1:2]
+2021-12-23 10:59:15,697 DEBUG parse_part from 1 to 2 (to 1 in part parser)
+2021-12-23 10:59:15,697 DEBUG diff parser end
+2021-12-23 10:59:30,279 DEBUG diff parser start
+2021-12-23 10:59:30,280 DEBUG line_lengths old: 2; new: 3
+2021-12-23 10:59:30,280 DEBUG -> code[equal] old[1:1] new[1:1]
+2021-12-23 10:59:30,281 DEBUG copy old[1:1] new[1:1]
+2021-12-23 10:59:30,281 DEBUG -> code[replace] old[2:2] new[2:3]
+2021-12-23 10:59:30,281 DEBUG parse_part from 2 to 3 (to 2 in part parser)
+2021-12-23 10:59:30,282 DEBUG diff parser end
+2021-12-23 10:59:46,127 INFO this is info for logger 1
+2021-12-23 10:59:46,129 INFO this is info for logger 2
+2021-12-23 10:59:46,131 DEBUG this is info for debug 2
+2021-12-23 10:59:49,139 INFO this is info for logger 1
+2021-12-23 10:59:49,141 INFO this is info for logger 2
+2021-12-23 10:59:49,143 DEBUG this is info for debug 2

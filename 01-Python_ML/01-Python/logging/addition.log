@@ -1,0 +1,18 @@
+2021-12-22 12:27:04,415 User provided input argumets are = (5, 6, 67, 9, 12, 'sachin')
+2021-12-22 12:27:04,415 Provide only integer as input parameter
+2021-12-22 12:27:04,416 Execution stopped
+2021-12-22 12:27:22,176 User provided input argumets are = (5, 6, 67, 9, 12)
+2021-12-22 12:27:22,177 Execution has completed successfully, please find sum of user input parameter
+2021-12-22 12:27:22,177 Total sum of user input = 99
+2021-12-22 12:27:38,192 User provided input argumets are = (5, 6, 67, 9, 12, 279)
+2021-12-22 12:27:38,192 Execution has completed successfully, please find sum of user input parameter
+2021-12-22 12:27:38,193 Total sum of user input = 378
+2021-12-22 12:32:41,032 User provided input argumets are = (5, 6, 67, 9, 12, 279)
+2021-12-22 12:32:41,032 Execution has completed successfully, please find sum of user input parameter
+2021-12-22 12:32:41,033 Total sum of user input = 378
+2021-12-22 12:34:37,281 User provided input argumets are = (5, 6, 67, 9, 12, 279, 42)
+2021-12-22 12:34:37,281 Execution has completed successfully, please find sum of user input parameter
+2021-12-22 12:34:37,282 Total sum of user input = 420
+2021-12-22 13:00:42,470 User provided input argumets are = (5, 6, 67, 9, 12, 279, 42)
+2021-12-22 13:00:42,470 Execution has completed successfully, please find sum of user input parameter
+2021-12-22 13:00:42,471 Total sum of user input = 420

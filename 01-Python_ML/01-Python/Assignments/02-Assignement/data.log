@@ -1,0 +1,4 @@
+2021-12-27 12:58:38,107 [Errno 2] No such file or directory: 'test2.txt'
+2021-12-27 13:03:03,119 File is already exist
+2021-12-27 13:03:54,619 File is already exist
+2021-12-27 13:06:53,685 File is already exist

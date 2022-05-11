@@ -1,0 +1,66 @@
+2022-03-02 11:33:25,917 I am going to start my first program
+2022-03-02 11:34:26,927 I am going to start my first program
+2022-03-02 11:37:08,141 I am going to start my first program
+2022-03-02 11:37:50,749 I am going to start my first program
+2022-03-02 11:37:56,200 I am going to start my first program
+2022-03-02 11:38:15,860 I am going to start my first program
+2022-03-02 11:38:45,879 I am going to start my first program
+2022-03-02 11:38:50,619 I am going to start my first program
+2022-03-02 11:38:54,566 I am going to start my first program
+2022-03-02 11:38:55,939 I am going to start my first program
+2022-03-02 11:40:22,428 I am going to start my first program
+2022-03-02 11:40:31,867 name 'mongo_client' is not defined
+2022-03-02 11:40:37,429 name 'mongo_client' is not defined
+2022-03-02 11:40:57,037 name 'mongo_client' is not defined
+2022-03-02 11:45:33,403 I am going to start my first program
+2022-03-02 11:45:43,465 name 'mongo_client' is not defined
+2022-03-02 11:45:47,342 name 'mongo_client' is not defined
+2022-03-02 11:53:32,387 I am going to start my first program
+2022-03-02 11:53:33,673 name 'mongo_client' is not defined
+2022-03-02 11:54:08,603 cluster0-shard-00-00.pe8ia.mongodb.net:27017: timed out,cluster0-shard-00-02.pe8ia.mongodb.net:27017: timed out,cluster0-shard-00-01.pe8ia.mongodb.net:27017: timed out, Timeout: 30s, Topology Description: <TopologyDescription id: 621f0d6ae10cae5e66fdfa26, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('cluster0-shard-00-00.pe8ia.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('cluster0-shard-00-00.pe8ia.mongodb.net:27017: timed out')>, <ServerDescription ('cluster0-shard-00-01.pe8ia.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('cluster0-shard-00-01.pe8ia.mongodb.net:27017: timed out')>, <ServerDescription ('cluster0-shard-00-02.pe8ia.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('cluster0-shard-00-02.pe8ia.mongodb.net:27017: timed out')>]>
+2022-03-02 11:55:05,934 cluster0-shard-00-00.pe8ia.mongodb.net:27017: timed out,cluster0-shard-00-02.pe8ia.mongodb.net:27017: timed out,cluster0-shard-00-01.pe8ia.mongodb.net:27017: timed out, Timeout: 30s, Topology Description: <TopologyDescription id: 621f0da3e10cae5e66fdfa27, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('cluster0-shard-00-00.pe8ia.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('cluster0-shard-00-00.pe8ia.mongodb.net:27017: timed out')>, <ServerDescription ('cluster0-shard-00-01.pe8ia.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('cluster0-shard-00-01.pe8ia.mongodb.net:27017: timed out')>, <ServerDescription ('cluster0-shard-00-02.pe8ia.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('cluster0-shard-00-02.pe8ia.mongodb.net:27017: timed out')>]>
+2022-03-02 11:55:07,140 I am going to start my first program
+2022-03-02 11:55:14,242 name 'mongo_client' is not defined
+2022-03-02 11:55:54,195 cluster0-shard-00-00.pe8ia.mongodb.net:27017: timed out,cluster0-shard-00-02.pe8ia.mongodb.net:27017: timed out,cluster0-shard-00-01.pe8ia.mongodb.net:27017: timed out, Timeout: 30s, Topology Description: <TopologyDescription id: 621f0dd3e10cae5e66fdfa29, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('cluster0-shard-00-00.pe8ia.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('cluster0-shard-00-00.pe8ia.mongodb.net:27017: timed out')>, <ServerDescription ('cluster0-shard-00-01.pe8ia.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('cluster0-shard-00-01.pe8ia.mongodb.net:27017: timed out')>, <ServerDescription ('cluster0-shard-00-02.pe8ia.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('cluster0-shard-00-02.pe8ia.mongodb.net:27017: timed out')>]>
+2022-03-02 11:56:41,666 I am going to start my first program
+2022-03-02 11:56:42,762 name 'mongo_client' is not defined
+2022-03-02 12:04:37,056 I am going to start my first program
+2022-03-02 12:08:47,140 I am going to start my first program
+2022-03-02 12:08:50,380 name 'mongo_client' is not defined
+2022-03-02 12:09:21,291 name 'get' is not defined
+2022-03-02 12:09:31,590 name 'get' is not defined
+2022-03-02 12:09:53,168 name 'get' is not defined
+2022-03-02 12:09:58,559 name 'get' is not defined
+2022-03-02 12:10:29,854 I am going to start my first program
+2022-03-02 12:10:31,091 name 'mongo_client' is not defined
+2022-03-02 12:10:31,775 name 'get' is not defined
+2022-03-02 12:11:32,211 name 'get' is not defined
+2022-03-02 12:27:08,150 I am going to start my first program
+2022-03-02 12:27:08,951 name 'mongo_client' is not defined
+2022-03-02 12:27:17,202 name 'get' is not defined
+2022-03-02 12:27:20,226 name 'get' is not defined
+2022-03-02 12:28:06,171 I am going to start my first program
+2022-03-02 12:28:08,583 name 'mongo_client' is not defined
+2022-03-02 12:32:24,172 I am going to start my first program
+2022-03-02 12:32:25,398 name 'mongo_client' is not defined
+2022-03-02 12:33:00,807 I am going to start my first program
+2022-03-02 12:33:01,757 name 'mongo_client' is not defined
+2022-03-02 12:33:03,224 Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2022-03-02 12:38:44,874 I am going to start my first program
+2022-03-02 12:38:45,975 name 'mongo_client' is not defined
+2022-03-02 12:38:46,883 Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2022-03-02 12:39:51,492 document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+2022-03-02 12:40:36,562 document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+2022-03-02 12:41:57,072 I am going to start my first program
+2022-03-02 12:41:58,060 name 'mongo_client' is not defined
+2022-03-02 12:41:59,237 Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2022-03-02 12:42:00,626 document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+2022-03-02 12:43:24,963 I am going to start my first program
+2022-03-02 12:43:25,865 name 'mongo_client' is not defined
+2022-03-02 12:43:26,835 Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2022-03-02 12:43:29,500 document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+2022-03-02 12:45:23,693 NumExpr defaulting to 4 threads.
+2022-03-02 12:45:32,924 I am going to start my first program
+2022-03-02 12:45:59,742 name 'mongo_client' is not defined
+2022-03-02 12:46:12,866 Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2022-03-02 12:46:36,526 document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping

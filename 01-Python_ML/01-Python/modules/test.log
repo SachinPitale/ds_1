@@ -1,0 +1,2304 @@
+2021-12-30 10:54:47,959 INFO your total value is 13
+2021-12-30 10:55:05,724 ERROR Enter only interger
+2021-12-30 10:55:05,725 INFO your total value is 13
+2021-12-30 10:55:27,061 ERROR Enter only interger
+2021-12-30 10:55:27,061 INFO your total value is 13
+2021-12-30 10:56:17,204 ERROR Enter only interger
+2021-12-30 11:00:50,555 INFO this is my first test code for log
+2021-12-30 11:02:15,091 INFO This is user1 log
+2021-12-30 12:48:52,483 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:49:02,505 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:49:12,528 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:49:22,544 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:49:32,558 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:49:42,573 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:49:52,590 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:50:02,604 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:50:12,624 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:50:22,642 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:50:32,652 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:50:42,662 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:50:52,671 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:51:02,682 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:51:12,704 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:51:22,711 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:51:32,720 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:51:42,757 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:51:52,773 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:52:02,789 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:52:12,795 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:52:22,810 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:52:32,819 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:52:42,837 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:52:52,851 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:53:02,862 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:53:12,874 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:53:22,883 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:53:32,901 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:53:42,909 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:53:52,919 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:54:02,926 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:54:12,938 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:54:22,952 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:54:32,968 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:54:42,979 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:54:52,988 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:55:02,999 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:55:13,009 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:55:23,016 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:55:33,025 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:55:43,041 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:55:53,053 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:56:03,060 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:56:13,068 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:56:23,077 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:56:33,098 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:56:43,125 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:56:53,142 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:57:03,151 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:57:13,172 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:57:23,187 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:57:33,193 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:57:43,200 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:57:53,219 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:58:03,237 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:58:13,252 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:58:23,270 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:58:33,278 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:58:43,293 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:58:53,312 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:59:03,317 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:59:13,331 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:59:23,352 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:59:33,364 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:59:43,371 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 12:59:53,382 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:00:03,402 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:00:13,420 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:00:23,436 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:00:33,451 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:00:43,470 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:00:53,489 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:01:03,495 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:01:13,508 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:01:23,530 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:01:33,538 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:01:43,556 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:01:53,573 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:02:03,587 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:02:13,604 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:02:23,621 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:02:33,625 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:02:43,636 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:02:53,648 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:03:03,663 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:03:13,675 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:03:23,681 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:03:33,689 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:03:43,698 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:03:53,715 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:04:03,728 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:04:13,742 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:04:23,749 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:04:33,762 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:04:43,772 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:04:53,787 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:05:03,798 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:05:13,815 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:05:23,833 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:05:33,849 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:05:43,857 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:05:53,867 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:06:03,887 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:06:13,903 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:06:23,921 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:06:33,940 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:06:43,956 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:06:53,968 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:07:03,990 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:07:13,997 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:07:24,005 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:07:34,025 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:07:44,035 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:07:54,045 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:08:04,060 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:08:14,077 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:08:24,084 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:08:34,096 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:08:44,114 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:08:54,128 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:09:04,148 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:09:14,163 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:09:24,174 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:09:34,188 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:09:44,206 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:09:54,211 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:10:04,221 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:10:14,239 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:10:24,258 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:10:34,275 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:10:44,294 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:10:54,304 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:11:04,318 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:11:14,332 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:11:24,343 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:11:34,358 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:11:44,370 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:11:54,387 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:12:04,404 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:12:14,421 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:12:24,439 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:12:34,451 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:12:44,467 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:12:54,484 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:13:04,499 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:13:14,513 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:13:24,521 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:13:34,537 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:13:44,553 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:13:54,559 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:14:04,578 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:14:14,584 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:14:24,604 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:14:34,620 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:14:44,628 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:14:54,638 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:15:04,652 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:15:14,670 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:15:24,676 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:15:34,687 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:15:44,706 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:15:54,725 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:16:04,745 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:16:14,764 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:16:24,775 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:16:34,781 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:16:44,796 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:16:54,813 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:17:04,823 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:17:14,835 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:17:24,852 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:17:34,869 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:17:44,887 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:17:54,899 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:18:04,909 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:18:14,957 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:18:24,969 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:18:34,984 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:18:44,997 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:18:55,003 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:19:05,013 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:19:15,025 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:19:25,038 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:19:35,045 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:19:45,059 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:19:55,080 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:20:05,100 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:20:15,110 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:20:25,125 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:20:35,145 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:20:45,165 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:20:55,170 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:21:05,189 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:21:15,198 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:21:25,210 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:21:35,230 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:21:45,246 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:21:55,258 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:22:05,273 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:22:15,279 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:22:25,295 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:22:35,314 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:22:45,324 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:22:55,332 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:23:05,340 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:23:15,357 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:23:25,376 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:23:35,393 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:23:45,399 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:23:55,416 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:24:05,426 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:24:15,433 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:24:25,445 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:24:35,456 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:24:45,465 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:24:55,471 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:25:05,484 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:25:15,498 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:25:25,517 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:25:35,527 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:25:45,534 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:25:55,556 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:26:05,568 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:26:15,575 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:26:25,587 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:26:35,604 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:26:45,611 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:26:55,618 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:27:05,629 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:27:15,637 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:27:25,652 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:27:35,669 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:27:45,678 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:27:55,694 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:28:05,713 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:28:15,730 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:28:25,740 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:28:35,761 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:28:45,766 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:28:55,778 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:29:05,788 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:29:15,796 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:29:25,806 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:29:35,815 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:29:45,831 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:29:55,849 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:30:05,864 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:30:15,876 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:30:25,882 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:30:35,898 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:30:45,904 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:30:55,910 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:31:05,924 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:31:15,938 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:31:25,948 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:31:35,960 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:31:45,978 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:31:55,995 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:32:06,013 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:32:16,017 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:32:26,030 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:32:36,037 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:32:46,053 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:32:56,071 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:33:06,087 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:33:16,098 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:33:26,103 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:33:36,112 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:33:46,125 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:33:56,137 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:34:06,143 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:34:16,147 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:34:26,163 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:34:36,174 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:34:46,181 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:34:56,195 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:35:06,200 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:35:16,218 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:35:26,231 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:35:36,245 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:35:46,260 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:35:56,277 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:36:06,290 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:36:16,300 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:36:26,315 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-12-30 13:36:36,328 ERROR Exception in callback BaseSelectorEventLoop._read_from_self()
+handle: <Handle BaseSelectorEventLoop._read_from_self()>
+Traceback (most recent call last):
+  File "C:\Users\Delll\anaconda3\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Delll\anaconda3\lib\asyncio\selector_events.py", line 120, in _read_from_self
+    data = self._ssock.recv(4096)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
